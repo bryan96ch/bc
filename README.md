@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Bryan — Full Stack Developer & Optimizador de Procesos
+# ¡Hola! Soy Bryan — Full Stack Developer & Optimizador de Procesos
 
 Desarrollador con **10 años de experiencia** construyendo, optimizando y modernizando sistemas empresariales críticos.  
 He trabajado en soluciones de alto impacto para el sector financiero, cooperativas, industria automotriz, logística y plataformas SaaS.
