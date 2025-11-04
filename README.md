@@ -12,15 +12,6 @@ Mi enfoque principal es:
 
 ---
 
-### **Analista de Sistemas de TI**  
-**CONECA** (abr. 2017 — abr. 2020)  
-- Migración y desarrollo de un nuevo sistema web: contabilidad, activos fijos, cotizaciones, etc.  
-- Soporte al sistema antiguo y creación de nuevas aplicaciones internas.  
-- Gestión de servidores Windows Server 2012-R2 y Debian.  
-- Bases de datos SQL Server y PostgreSQL.
-
----
-
 ## 🛠️ Tecnologías Principales
 
 - **Backend:** PHP · Java · Python · Node.js  
